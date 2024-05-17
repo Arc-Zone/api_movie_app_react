@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BM2MyZTAzZGU3MDEtODBmMi00MGYwLTc4NjY2ZGI1ZTQwNi0wMTE0NzU1MTk5MDEtMDI4LTk1MDEtMTYzNDk2NzYzNDk0XkEyXkFDMjMwMzY5MzU2A@._V1_SY1000_SX1500_QL70_AR1000,1000_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGUzZTk0MWY0NDIxODk2MjQ2YTI1MDE3YzY2XkEyXkFDMjUwMTU1MzE2A@._V1_SY1000_SX1500_QL70_AR1000,1000_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BMTMwMzQ2ODk5NTEyMDE0MTU4NDk1ZjE0MjAzMWMxMzU3XkEyXkFDMjUwMDY2NDk5A@._V1_SY1000_SX1500_QL70_AR1000,1000_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Lord of the Rings: The Return of the King",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BNjhmNTQwZTgzNDgtNmQ2Mi0yNTE5LTc5NTQ3NjkwNDk5XkEyXkFDMjUwMjM2NzM0A@._V1_SY1000_SX1500_QL70_AR1000,1000_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "image_path": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1NTg1Ml5BMl5BMTE1MDAwMTU5MzM0MTYzMTE0XkEyXkFDMjUwMTU5MzE2A@._V1_SY1000_SX1500_QL70_AR1000,1000_.jpg"
+  }
+]
